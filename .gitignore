@@ -1,0 +1,5 @@
+Set-Content -Path .gitignore -Value @"
+Auth_Practice/jwt/node_modules
+"@
+
+
